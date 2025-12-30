@@ -1,0 +1,5 @@
+name = "mta-sts-jaredscott-com"  # Must match the project name you'll set in dashboard
+compatibility_date = "2025-12-30"
+
+[assets]
+directory = "./public"  # Path to your static directory
